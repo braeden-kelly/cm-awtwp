@@ -1,3 +1,4 @@
 - https://github.com/braeden-kelly/cm25-awtwp-d
 - https://testautomationu.applitools.com/
 - https://discord.com/channels/1127340805741359164/1327994816302284891
+- https://github.com/AutomationPanda
